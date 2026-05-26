@@ -1,4 +1,4 @@
-name: ant-simulator
+name: AntSimulator
 version: 1.0
 main: io.github.anjoismysign.antsimulator.AntSimulator
 api-version: 1.21
