@@ -1,6 +1,8 @@
 package io.github.anjoismysign.antsimulator;
 
 import io.github.anjoismysign.antsimulator.asset.BreakPayment;
+import io.github.anjoismysign.antsimulator.asset.KillPayment;
+import io.github.anjoismysign.blobspawner.domain.BlobMobData;
 import org.bukkit.block.BlockType;
 import org.jetbrains.annotations.NotNull;
 
@@ -14,5 +16,7 @@ public interface AntSimulatorAPI {
 
     @Nullable
     BreakPayment getBreakPayment(@NotNull BlockType blockType);
+
+    @Nullable KillPayment getKillPayment(@NotNull BlobMobData mobData);
 
 }
