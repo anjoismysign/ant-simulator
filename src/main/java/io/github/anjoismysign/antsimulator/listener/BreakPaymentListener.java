@@ -3,7 +3,7 @@ package io.github.anjoismysign.antsimulator.listener;
 import io.github.anjoismysign.antsimulator.AntSimulatorAPI;
 import io.github.anjoismysign.antsimulator.asset.BreakPayment;
 import io.github.anjoismysign.bloblib.api.BlobLibEconomyAPI;
-import io.github.anjoismysign.bloblib.entities.message.BlobMessage;
+import io.github.anjoismysign.bloblib.message.BlobMessage;
 import net.milkbowl.vault.economy.IdentityEconomy;
 import org.bukkit.Material;
 import org.bukkit.block.Block;

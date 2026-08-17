@@ -2,8 +2,8 @@ package io.github.anjoismysign.antsimulator.listener;
 
 import io.github.anjoismysign.antsimulator.AntSimulator;
 import io.github.anjoismysign.antsimulator.director.manager.AntConfigurationManager;
-import io.github.anjoismysign.bloblib.entities.translatable.TranslatableArea;
-import io.github.anjoismysign.bloblib.entities.translatable.TranslatablePositionable;
+import io.github.anjoismysign.bloblib.translatable.TranslatableArea;
+import io.github.anjoismysign.bloblib.translatable.TranslatablePositionable;
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;

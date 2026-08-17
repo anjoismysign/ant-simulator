@@ -2,7 +2,7 @@ package io.github.anjoismysign.antsimulator.director.manager;
 
 import io.github.anjoismysign.antsimulator.director.AntManager;
 import io.github.anjoismysign.antsimulator.director.AntManagerDirector;
-import io.github.anjoismysign.bloblib.util.ListenerScanner;
+import io.github.anjoismysign.bloblib.utility.ListenerScanner;
 
 public class AntListenerManager extends AntManager {
 

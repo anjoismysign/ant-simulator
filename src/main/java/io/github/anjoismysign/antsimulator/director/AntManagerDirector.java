@@ -3,7 +3,7 @@ package io.github.anjoismysign.antsimulator.director;
 import io.github.anjoismysign.antsimulator.AntSimulator;
 import io.github.anjoismysign.antsimulator.director.manager.AntConfigurationManager;
 import io.github.anjoismysign.antsimulator.director.manager.AntListenerManager;
-import io.github.anjoismysign.bloblib.entities.GenericManagerDirector;
+import io.github.anjoismysign.bloblib.manager.GenericManagerDirector;
 import org.jetbrains.annotations.NotNull;
 
 public class AntManagerDirector extends GenericManagerDirector<AntSimulator> {
