@@ -6,7 +6,7 @@
 
     <groupId>io.github.anjoismysign</groupId>
     <artifactId>ant-simulator</artifactId>
-    <version>1.0</version>
+    <version>1.702.0</version>
     <packaging>jar</packaging>
 
     <name>ant-simulator</name>
@@ -60,7 +60,7 @@
         <dependency>
             <groupId>io.github.anjoismysign</groupId>
             <artifactId>bloblib</artifactId>
-            <version>1.701</version>
+            <version>1.702</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
